@@ -1562,7 +1562,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1e0fb1f84c2841b4580f7a276647f5bf, type: 3}
+  m_audioClip: {fileID: 8300000, guid: dc79a0727c2b0c0499aaccaffeca6a70, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1981,16 +1981,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-    roots in a piece of classical Latin literature from 45 BC, making it over 2000
-    years old. Richard McClintock, a Latin professor at Hampden-Sydney College in
-    Virginia, looked up one of the more obscure Latin words, consectetur, from a
-    Lorem Ipsum passage, and going through the cites of the word in classical literature,
-    discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and
-    1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by
-    Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very
-    popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor
-    sit amet..", comes from a line in section 1.10.32.
+  m_Text: 'Created by:
+
+    Jdanov Victor
+
+    Cusnir Vladislav
+
+
+
+    Version 0.5'
 --- !u!222 &1765310686
 CanvasRenderer:
   m_ObjectHideFlags: 0
